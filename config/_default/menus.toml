@@ -1,0 +1,134 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "#home"
+  weight = 10
+
+[[main]]
+ identifier = "callforpapers"
+ name = "Call for Papers"
+ url = "cfp"
+ weight = 20
+
+[[main]]
+  name = "Call for Participation"
+  url = "cfp"
+  weight = 10
+  parent = "callforpapers"
+
+[[main]]
+  name = "Camera-ready Paper Instructions"
+  url = "camera_ready"
+  weight = 20
+  parent = "callforpapers"
+
+[[main]]
+  identifier = "program"
+  name = "Program"
+  url = "speakers"
+  weight = 30
+
+[[main]]
+  name = "Conference Schedule"
+  url = "schedule"
+  weight = 10
+  parent = "program"
+
+[[main]]
+  name = "Keynote and Panel Speakers"
+  url = "speakers"
+  weight = 20
+  parent = "program"
+
+[[main]]
+  name = "Accepted Papers and Posters"
+  url = "papers"
+  weight = 30
+  parent = "program"
+
+[[main]]
+  name = "Best paper awards"
+  url = "awards"
+  weight = 40
+  parent = "program"
+
+[[main]]
+  name = "Doctoral Consortium"
+  url = "doctoral_consortium"
+  weight = 50
+  parent = "program"
+
+[[main]]
+ identifier = "participation"
+ name = "Participation"
+ url = ""
+ weight = 30
+
+[[main]]
+  name = "Registration"
+  url = "registration"
+  weight = 10
+  parent = "participation"
+
+[[main]]
+  name = "Venue"
+  url = "venue"
+  weight = 20
+  parent = "participation"
+
+[[main]]
+  name = "Virtual Venue"
+  url = "virtual_venue"
+  weight = 30
+  parent = "participation"
+
+[[main]]
+  name = "Policies"
+  url = "policies"
+  weight = 40
+  parent = "participation"
+
+[[main]]
+  name = "Committees"
+  url = "committee"
+  weight = 40
+
+[[main]]
+  name = "EAAMO 2021"
+  url = "https://eaamo2021.eaamo.org"
+  weight = 50
+
+[[main]]
+  name = "MD4SG"
+  url = "https://md4sg.com"
+  weight = 60
+
+  [[main]]
+  name = "EAAMO at a glance"
+  url = "EAAMO_22_at_a_glance"
+  weight = 70
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "media/resume.pdf"
+#    weight = 70
+
+# An example of dropdown menu
+# [[main]]
+#  identifier = "program"
+#  name = "Program"
+#  url = "program"
+#  weight = 40
+
+# [[main]]
+#  name = "Invited Speakers"
+#  url = "speakers"
+#  weight = -30
+#  parent = "program"
