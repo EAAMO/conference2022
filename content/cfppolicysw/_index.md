@@ -42,8 +42,8 @@ Mawasilisho yatatarajiwa katika moja kati ya vipengele viwili:
 
 
 
-* [Ufuatiliaji wa Utafiti](https://eaamo2022.eaamo.org/cfpresearchsw/)
-* [Ufuatiliaji wa Sera na Utendaji](https://eaamo2022.eaamo.org/cfppolicysw)
+* [Ufuatiliaji wa Utafiti](https://conference2022.eaamo.org/cfpresearchsw/)
+* [Ufuatiliaji wa Sera na Utendaji](https://conference2022.eaamo.org/cfppolicysw)
  
 Kwa mawasilisho yote katika ufuatiliaji wowote, mada za kuwasilisha zinajumuisha zifuatazo **lakini hazizuiliki kwenye**:
 - changamoto za muundo wa soko na utaratibu katika mazingira yenye rasilimali chache

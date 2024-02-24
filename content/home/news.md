@@ -41,8 +41,8 @@ design:
 ---
 - **EAAMO'22 Proceedings are now available in [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3551624)**
 - **[Best Paper Awards](/awards)** have been announced.
-- **[Conference schedule](https://eaamo2022.eaamo.org/schedule/)** is now available.
+- **[Conference schedule](https://conference2022.eaamo.org/schedule/)** is now available.
 - Registration is now live. Register at [this link](https://cvent.me/L94zQG) for early admission (reduced price until September 20).
-- The list of accepted papers and posters is now [available](https://eaamo2022.eaamo.org/papers/).
+- The list of accepted papers and posters is now [available](https://conference2022.eaamo.org/papers/).
 - EAAMO'22 will be held October 6-9, 2022 in Arlington, VA, and virtually.
-- Check out our keynote speakers [here](https://eaamo2022.eaamo.org/speakers/).
+- Check out our keynote speakers [here](https://conference2022.eaamo.org/speakers/).

@@ -40,8 +40,8 @@ _O ACM EAAMO faz parte da iniciativa [Mechanism Design for Social Good](https://
 
 As inscrições se enquadram em uma das duas categorias:
 
-* [Seção temática de pesquisa](https://eaamo2022.eaamo.org/cfpresearch_por/)
-* [Seção temática de Políticas e Práticas](https://eaamo2022.eaamo.org/cfppolicyandpractice_por)
+* [Seção temática de pesquisa](https://conference2022.eaamo.org/cfpresearch_por/)
+* [Seção temática de Políticas e Práticas](https://conference2022.eaamo.org/cfppolicyandpractice_por)
 
 Para todos os envios em qualquer seção, as metodologias, técnicas e abordagens usadas podem incluir, mas não estão limitadas a:
 

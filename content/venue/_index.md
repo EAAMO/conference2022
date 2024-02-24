@@ -18,7 +18,7 @@ header:
 
 ## Venue information
 
-The EAAMO'22 conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus, more details below). EAAMO'22 will also have a virtual participation option through the Hopin platform (details about accessing the virtual platform can be found on [our website](https://eaamo2022.eaamo.org/virtual_venue/)).
+The EAAMO'22 conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus, more details below). EAAMO'22 will also have a virtual participation option through the Hopin platform (details about accessing the virtual platform can be found on [our website](https://conference2022.eaamo.org/virtual_venue/)).
 
 **3351 North Fairfax Drive, Van Metre Hall**
 
@@ -43,7 +43,7 @@ The conference does not have a reserved hotel room block.
 
 ## Community and Safety
 
-Please review [our policies](https://eaamo2022.eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
+Please review [our policies](https://conference2022.eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
 
 - **Prioritizing a safe and inclusive conference space.**
   - Participants must abide by ACM's Policy Against Harassment at ACM Activities and the ACM Code of Ethics and Professional Conduct and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee.

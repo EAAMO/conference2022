@@ -27,7 +27,7 @@ header:
 
 ## Venue information
 
-The conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus). Venue information and directions can be found on [our website](https://eaamo2022.eaamo.org/venue/). In addition, EAAMO 2022 will also have a virtual participation option. More specifically, virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section, using the Hopin platform.
+The conference is held at Van Metre Hall, at George Mason University's Mason Square (formerly the Arlington Campus). Venue information and directions can be found on [our website](https://conference2022.eaamo.org/venue/). In addition, EAAMO 2022 will also have a virtual participation option. More specifically, virtual part of the conference will broadcast the keynote talks and session talks, with a possibility to ask a question using Q&A section, using the Hopin platform.
 
 The conference will be presented in English. Please be aware that English is not everyone’s first language. Therefore, be mindful and respectful to everyone and ask for an additional clarification if needed.
 
@@ -43,7 +43,7 @@ Everyone who has registered for the conference will receive a **Magic Link** sev
 
 When you return to Hopin, you can login through your email address. A one-time-password (OTP) will be delivered to your email. The initial screen looks like:
 
-<img src="https://eaamo2022.eaamo.org/images/hopin_intro.jpg" alt="Hopin - Introduction Screen" />
+<img src="https://conference2022.eaamo.org/images/hopin_intro.jpg" alt="Hopin - Introduction Screen" />
 
 ### Making your profile
 
@@ -51,13 +51,13 @@ When you log in, you’ll be asked to set up a **profile**. In addition to basic
 
 You can later edit this under the *Edit profile* menu at the right sidebar. We kindly ask that you include your preferred pronouns in your profile. 
 
-<img src="https://eaamo2022.eaamo.org/images/hopin_personal.jpg" alt="Hopin - Set up personal profile" />
+<img src="https://conference2022.eaamo.org/images/hopin_personal.jpg" alt="Hopin - Set up personal profile" />
 
 ### Reception and Schedule
 
 The homepage of the conference is called the **Reception area**. This is where you can find the **Program Schedule**, which you’ll use to plan your viewing of live content at the conference.
 
-<img src="https://eaamo2022.eaamo.org/images/hopin_schedule.jpg" alt="Hopin - Reception area" />
+<img src="https://conference2022.eaamo.org/images/hopin_schedule.jpg" alt="Hopin - Reception area" />
 
 You can add content that you want to watch live to your *Agenda*—a personalized schedule of favorites—or directly to your preferred calendar app. You can filter the schedule for content that you’re interested in, by clicking the filter icon. Note that it operates within each day’s program, not across all four days. 
 
@@ -71,7 +71,7 @@ Since EAAMO is a single-track conference, all of the events are conducted on the
 
 If you’d like to meet someone new, head to **People**. Click  *Join Now* to be connected with someone else on the platform who also wants to chat. It’s a good way to make new connections. We will have special *Meet Someone* sessions when we coordinate around this tool, but you can use it at any time.
 
-<img src="https://eaamo2022.eaamo.org/images/hopin_people.jpg" alt="Hopin - People area" />
+<img src="https://conference2022.eaamo.org/images/hopin_people.jpg" alt="Hopin - People area" />
 
 You can use People area to be connected to other participants by random (but according to the personal interests), or to find other participants and make them your *connection* during the conference.
 
@@ -93,7 +93,7 @@ Recordings of all Keynotes talks and in-person Paper presentations, can be viewe
 
 You can chat with other attendees under the *Chat* menu at the right sidebar. You can find people individually, or chat with the whole conference (very loud), or within a particular stage, or booth. 
 
-<img src="https://eaamo2022.eaamo.org/images/hopin_chat.jpg" alt="Hopin - Chat" />
+<img src="https://conference2022.eaamo.org/images/hopin_chat.jpg" alt="Hopin - Chat" />
 
 Please read our community guidelines about the behaviour when chatting. 
 
@@ -103,7 +103,7 @@ During any content taking place on a Stage the Chair will take questions from th
 
 ### Accessibility
 
-Hopin was developed by people with a keen interest in making conferences more inclusive and accessible, and has been repeatedly reviewed for accessibility needs, and proven to handle these better than other available alternatives. There may still be needs that are not met; if so, please contact [our accessibility chair or virtual chairs](https://eaamo2022.eaamo.org/committee/).
+Hopin was developed by people with a keen interest in making conferences more inclusive and accessible, and has been repeatedly reviewed for accessibility needs, and proven to handle these better than other available alternatives. There may still be needs that are not met; if so, please contact [our accessibility chair or virtual chairs](https://conference2022.eaamo.org/committee/).
 
 We are encouraging participants to ask questions and engage around papers on Hopin, which can be used to ask questions asynchronously. Moderators for each session will be monitoring booths to include these questions in the live Q+A.
 
@@ -131,7 +131,7 @@ We have taken many steps to ensure the security and safety of attendees. Here ar
 
 We have two types of content- Keynote talks, and Sessions. All of the events are conducted in-person. 
 
-Keynote talks include **Marcella Alsan** (Professor of Public Policy, Harvard Kennedy School), **Sello Mokwena** (Senior Lecturer and Head of Department, Tshwane University of Technology), **Neema Iyer** (Founder and Director of Pollicy. Practitioner Fellow, Digital Civil Society Lab, Stanford PACS), and **Karen Smilowitz** (James N. and Margie M. Krebs Professor in Industrial Engineering and Management Sciences, Northwestern University). Please find more information on a dedicated page for [keynote speakers](https://eaamo2022.eaamo.org/speakers/).
+Keynote talks include **Marcella Alsan** (Professor of Public Policy, Harvard Kennedy School), **Sello Mokwena** (Senior Lecturer and Head of Department, Tshwane University of Technology), **Neema Iyer** (Founder and Director of Pollicy. Practitioner Fellow, Digital Civil Society Lab, Stanford PACS), and **Karen Smilowitz** (James N. and Margie M. Krebs Professor in Industrial Engineering and Management Sciences, Northwestern University). Please find more information on a dedicated page for [keynote speakers](https://conference2022.eaamo.org/speakers/).
 
 Sessions consists of presentations of the research papers (archival and non-archival). Each session will have between two and four paper presentations. EAAMO'22 will have following sessions:
 - Service Delivery and Incentives,
@@ -146,7 +146,7 @@ Sessions consists of presentations of the research papers (archival and non-arch
 - Human factors, and
 - Allocations in Social Services.
 
-You can find papers per session either at Reception in Hopin (within the description of the session) or at a [conference program page](https://eaamo2022.eaamo.org/schedule/). You can ask questions on Hopin during the live session.
+You can find papers per session either at Reception in Hopin (within the description of the session) or at a [conference program page](https://conference2022.eaamo.org/schedule/). You can ask questions on Hopin during the live session.
 
 ### Doctoral Consortium
 
@@ -158,13 +158,13 @@ In-person Social Events will not be stremed. However, there will be dedicated vi
 
 ### Conference Program
 
-For a complete program of the conference visit the Reception in Hopin or use a dedicated [conference program page](https://eaamo2022.eaamo.org/schedule/) for a simpler HTML view.
+For a complete program of the conference visit the Reception in Hopin or use a dedicated [conference program page](https://conference2022.eaamo.org/schedule/) for a simpler HTML view.
 
 - - -
 
 ## Community and Safety
 
-Please review [our policies](https://eaamo2022.eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
+Please review [our policies](https://conference2022.eaamo.org/policies/) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy. 
 
 - **Prioritizing a safe and inclusive conference space.**
   - Participants must abide by ACM's Policy Against Harassment at ACM Activities and the ACM Code of Ethics and Professional Conduct and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee.
@@ -179,7 +179,7 @@ Please review [our policies](https://eaamo2022.eaamo.org/policies/) and the foll
   - Regarding accessibility and inclusion, please email travelgrants22@eaamo.org.
   - For any general questions or concerns, please email gc22@eaamo.org.
 
-In attending the ACM EAAMO'22 conference, participants abide by [ACM’s Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at [ACM Activities and the ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/policy-against-harassment) and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee. If you are involved in or witness any such incident, please submit a complaint to the organizing team (to be found on [our website](https://eaamo2022.eaamo.org/committee/)). We encourage all submitters to also complete a [confidential complaint to ACM](https://services.acm.org/harass/harass.cfm).
+In attending the ACM EAAMO'22 conference, participants abide by [ACM’s Policy Against Harassment](https://www.acm.org/about-acm/policy-against-harassment) at [ACM Activities and the ACM Code of Ethics and Professional Conduct](https://www.acm.org/about-acm/policy-against-harassment) and agree that behavior which deviates from these guidelines will constitute grounds for actions against any attendee. If you are involved in or witness any such incident, please submit a complaint to the organizing team (to be found on [our website](https://conference2022.eaamo.org/committee/)). We encourage all submitters to also complete a [confidential complaint to ACM](https://services.acm.org/harass/harass.cfm).
 
 Remember, you can watch all of the Keynotes, Paper sessions and tutorials at your leisure so you don’t need to attend everything live.
 

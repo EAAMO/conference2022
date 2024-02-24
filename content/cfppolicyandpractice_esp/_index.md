@@ -40,8 +40,8 @@ _ACM EAAMO es parte de la iniciativa [Diseño de Mecanismos para el Bien Social]
 
 Las propuestas se aceptarán en una de dos categorías:
 
-* [Rama de Investigación](https://eaamo2022.eaamo.org/cfpresearch/)
-* [Rama de Políticas y Práctica](https://eaamo2022.eaamo.org/cfppolicyandpractice)
+* [Rama de Investigación](https://conference2022.eaamo.org/cfpresearch/)
+* [Rama de Políticas y Práctica](https://conference2022.eaamo.org/cfppolicyandpractice)
 
 Para todas las propuestas en cualquiera de las categorías, las metodologías, técnicas y enfoques pueden incluir pero no se limitan a: 
 

@@ -45,8 +45,8 @@ Submissions will fall in one of two categories:
 
 
 
-* [Research Track](https://eaamo2022.eaamo.org/cfpresearch/)
-* [Policy and Practice Track](https://eaamo2022.eaamo.org/cfppolicyandpractice)
+* [Research Track](https://conference2022.eaamo.org/cfpresearch/)
+* [Policy and Practice Track](https://conference2022.eaamo.org/cfppolicyandpractice)
 
 For all submissions in either track, methodologies, techniques, and approaches used can include but are not limited to:
 

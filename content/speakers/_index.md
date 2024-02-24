@@ -20,7 +20,7 @@ header:
 
 ## [Marcella Alsan](https://www.hks.harvard.edu/faculty/marcella-alsan)
 
-<img src='https://eaamo2022.eaamo.org/images/marcella-alsan.jpg' width=250 height=250 />
+<img src='https://conference2022.eaamo.org/images/marcella-alsan.jpg' width=250 height=250 />
 
 *Professor of Public Policy, Harvard Kennedy School*
 
@@ -32,7 +32,7 @@ Marcella Alsan is an applied microeconomist studying health inequality. She rece
 
 ## [Sello Mokwena](https://za.linkedin.com/in/sello-mokwena-a3a01b3b)
 
-<img src='https://eaamo2022.eaamo.org/images/mokwena-sello.jpg' width=250 height=250 />
+<img src='https://conference2022.eaamo.org/images/mokwena-sello.jpg' width=250 height=250 />
 
 *Professor of Computer Science, University of Limpopo*
 
@@ -47,7 +47,7 @@ Associate Professor of Computer Science at University of Limpopo, Limpopo Provin
 
 ## [Karen Smilowitz](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/smilowitz-karen.html)
 
-<img src='https://eaamo2022.eaamo.org/images/smilowitz-karen.jpg' width=250 height=250 />
+<img src='https://conference2022.eaamo.org/images/smilowitz-karen.jpg' width=250 height=250 />
 
 *James N. and Margie M. Krebs Professor in Industrial Engineering and Management Sciences, Northwestern University*
 
@@ -68,7 +68,7 @@ Dr. Karen Smilowitz is the James N. and Margie M. Krebs Professor in Industrial 
 
 ## [Rebecca Johnson](https://www.rebeccajohnson.io/)
 
-<img src='https://eaamo2022.eaamo.org/images/rebecca_johnson.jpg' width=250 height=250 />
+<img src='https://conference2022.eaamo.org/images/rebecca_johnson.jpg' width=250 height=250 />
 
 *Assistant Professor at McCourt School of Public Policy, Georgetown University*
 
