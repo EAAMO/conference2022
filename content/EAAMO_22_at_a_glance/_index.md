@@ -35,7 +35,7 @@ One of the most ambitious diversity programs at EAAMO ‘22 was the sponsorship 
 
 This program came about as the result of ongoing collaboration between EAAMO, MD4SG, the United States Embassy in Mexico, the Science and Technology Council of San Luis Potosí ([COPOCYT](https://slp.gob.mx/copocyt/Paginas/Inicio.aspx)), a government organization from the state of San Luis Potosí, Mexico, and the [National Association of Universities and Higher Education Institutions](http://www.anuies.mx/). The main program was a virtual Summer Research Experience for indigenous women students who are interested in STEM and aim towards bringing about positive social impact in their local communities. The selected students presented their work under the themes of: preservation of indigenous language/culture, affordable housing, and equitable access to healthcare for indigenous communities. 
 
-We invite you to learn more about our students, their communities and their projects [here](https://eaamo.org/copocyt/). 
+We invite you to learn more about our students, their communities and their projects [here](https://conference2022.eaamo.org/copocyt/). 
 
 - - -
 
