@@ -518,7 +518,7 @@ by <i>Vinodkumar Prabhakaran, Margaret Mitchell, Timnit Gebru and Iason Gabriel<
 {{< /staticref >}}
 <br>
 
-{{< staticref "posters/130_mutumbesa.pdf" "newtab" >}}
+{{< staticref "posters/130_mutembesa.pdf" "newtab" >}}
 Spatial routing of mobile sensors in participatory air quality monitoring with motorcycles in a developing city
 <br>
 by <i>Daniel Mutembesa and Engineer Bainomugisha</i>
